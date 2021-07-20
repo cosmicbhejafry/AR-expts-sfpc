@@ -16,7 +16,8 @@ For images:
 For sound:
 - https://freesound.org/
 
---
+are.na: https://www.are.na/zach-lieberman/getting-situated-in-ar
+
 AR projects/readings:
 
 - https://www.evdh.net/water_pavilion/
