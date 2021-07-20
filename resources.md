@@ -23,3 +23,18 @@ AR projects/readings:
 - https://www.evdh.net/water_pavilion/
 - Jaron Lanier, ‘Dawn of the New Everything'
 - http://cavvia.net/junkspace/
+- https://hangar.org/en/
+- Invisible sculptures, Yeseul Song
+- https://www.bbc.com/news/uk-england-bristol-57387363
+- Wearable guide 2020 Japan
+- Tamiko Thiel - Lotus experience, Suspended
+- https://www.utwente.nl/en/designlab/focus-areas/
+- Nicole He, Erin Hilleli - Garden Friends
+- MoMAR Gallery
+- code as creative medium by golan levin and tega brain
+
+Other notes:
+- _What does it mean to put art anywhere?_ VandARism
+
+Random:
+- snap spectacles
