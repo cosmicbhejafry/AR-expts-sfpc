@@ -16,3 +16,9 @@ For images:
 For sound:
 - https://freesound.org/
 
+--
+AR projects/readings:
+
+- https://www.evdh.net/water_pavilion/
+- Jaron Lanier, ‘Dawn of the New Everything'
+- http://cavvia.net/junkspace/
