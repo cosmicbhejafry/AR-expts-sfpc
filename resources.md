@@ -18,7 +18,7 @@ For sound:
 
 are.na: https://www.are.na/zach-lieberman/getting-situated-in-ar
 
-AR projects/readings:
+AR projects/readings/people:
 
 - https://www.evdh.net/water_pavilion/
 - Jaron Lanier, ‘Dawn of the New Everything'
@@ -32,6 +32,8 @@ AR projects/readings:
 - Nicole He, Erin Hilleli - Garden Friends
 - MoMAR Gallery
 - code as creative medium by golan levin and tega brain
+- shantel martin
+- https://vimeo.com/354909662
 
 Other notes:
 - _What does it mean to put art anywhere?_ VandARism
