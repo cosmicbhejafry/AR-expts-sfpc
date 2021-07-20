@@ -9,7 +9,7 @@ For images:
 - https://www.instagram.com/vault_editions/
 - https://canva.com 
 - https://photopea.com 
-- (tip: for finding good vectors quickly, get them off canva on a background with a high contrast and then use the magic cut option on photopea to get a transparent background)
+(tip: for finding good vectors quickly, get them off canva on a background with a high contrast and then use the magic cut option on photopea to get a transparent background)
 
 
 
