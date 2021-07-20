@@ -16,7 +16,7 @@ For images:
 For sound:
 - https://freesound.org/
 
-are.na: https://www.are.na/zach-lieberman/getting-situated-in-ar
+are.na: https://www.are.na/zach-lieberman/getting-situated-in-ar, https://www.are.na/zach-lieberman
 
 AR projects/readings/people:
 
@@ -40,3 +40,13 @@ Other notes:
 
 Random:
 - snap spectacles
+
+Softwares:
+- Cinema4D
+- Maya
+- Blender
+- Spline
+- Adobe Mixamo
+- Sketchfab 
+- magica voxel [https://www.voxelmade.com/magicavoxel/]
+- http://www.wings3d.com/
