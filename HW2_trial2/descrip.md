@@ -1,4 +1,4 @@
-### Virtual sculpture in space/world augmentation: writer's block
+### Virtual sculpture in space/world augmentation: _chip off the old block_
 
 This sculpture is inspired by my experiences with creative block and the anxiety associated with the process of writing/creating that I often feel- 
 which springs questions like _am I good enough?, does what I have to say make sense? does it even matter?_. 
