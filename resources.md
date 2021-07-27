@@ -40,6 +40,10 @@ Other notes:
 
 Random:
 - snap spectacles
+- https://itseez3d.com/
+- https://bitforms.art/exhibition/auriea-harvey-year-zero/
+- https://structure.io/
+- https://www.youtube.com/watch?v=098KVRiQSDY
 
 Softwares:
 - Cinema4D
