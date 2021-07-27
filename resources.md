@@ -44,6 +44,7 @@ Random:
 - https://bitforms.art/exhibition/auriea-harvey-year-zero/
 - https://structure.io/
 - https://www.youtube.com/watch?v=098KVRiQSDY
+- how to remix the world for ARtistic intervention
 
 Softwares:
 - Cinema4D
