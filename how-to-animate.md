@@ -2,7 +2,8 @@
 ~~Warning: tedious procedure ahead~~
 
 Hi! I wanted to animate multiple cubes floating around, and made that animation in blender- but exporting everything and making it work in sparkAR was something I struggled with a lot.
-Smol disclaimer: I'm still learning the technical mechanisms of this, because I'm not very familiar with 3D modelling and animation.
+
+Smol disclaimer: I'm still learning the technical mechanisms of this, because I'm not very familiar with 3D modelling and animation. Please pull if you'd like to contribute to this discussion! All help is greatly appreciated.
 
 **The problem:**
 In Blender, I had multiple meshes, and I animated each mesh individually using keyframes- so I had an action corresponding to each mesh. 
