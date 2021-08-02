@@ -15,6 +15,11 @@ It's also possible to explore this 'rotation' in this augmented space.
 The boxes that I've made the '?' out of are not perfect cubes, I've tried to translate my anxiety and discomfort 
 to deformed 'boxes' (as if someone has thrown in punches from the inside) textured with weird faces. 
 
+Links to try: 
+
+[Click here for facebook](https://www.facebook.com/fbcameraeffects/tryit/363475281821841/)
+
+[Click here for instagram](https://www.instagram.com/ar/363475281821841/)
 
 I'm still working on experimenting with the exact rotation, colours and stuff. I might reanimate it to transform the ? into an ! and back into a ? but I don't know eh.
 
