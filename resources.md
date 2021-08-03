@@ -51,6 +51,7 @@ Random:
 - https://www.artnews.com/art-in-america/features/postcommodity-sound-millennium-tower-collapse-1202675398/
 - https://eatock.com/participate/no-smoking-sign-library/
 - https://www.poetryfoundation.org/poetrymagazine/browse?contentId=38643
+- https://virtualcarelab.com/
 
 texts:
 - the age of surveillance capitalism by shoshana zuboff
