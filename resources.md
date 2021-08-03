@@ -45,6 +45,26 @@ Random:
 - https://structure.io/
 - https://www.youtube.com/watch?v=098KVRiQSDY
 - how to remix the world for ARtistic intervention
+- the book of shaders- https://thebookofshaders.com/
+- https://www.theverge.com/2017/10/9/16450346/zuckerberg-facebook-spaces-puerto-rico-virtual-reality-hurricane
+- http://www.skawennati.com/
+
+texts:
+- the age of surveillance capitalism by shoshana zuboff
+- race after technology by ruha benjamin
+- artuo escobar's work
+  -   https://www.google.co.in/books/edition/Designs_for_the_Pluriverse/M0NRDwAAQBAJ?hl=en&gbpv=1&dq=ezio+manzini+%22so+today%22&pg=PT183&printsec=frontcover
+- https://core.ac.uk/download/pdf/55211446.pdf
+- https://en.wikipedia.org/wiki/Paul_Virilio - _how can we really live if there is no more here and if everything is now?_
+
+works:
+- [here to stay](https://www.chinatownartbrigade.org/#:~:text=Here%20to%20Stay%20(NYC),community%20resilience%20in%20NYC's%20Chinatown.)
+- http://theilluminator.org/
+- https://abtec.org/
+- https://www.bklynlibrary.org/calendar/black-movement-library-central-library-plaza-20210623
+- http://opentranscripts.org/transcript/art-code-homemade-lajune-mcmillian/
+- https://www.lozano-hemmer.com/border_tuner__sintonizador_fronterizo.php 
+- https://www.utep.edu/rubin/program-outreach/border-turner.html
 
 Softwares:
 - Cinema4D
