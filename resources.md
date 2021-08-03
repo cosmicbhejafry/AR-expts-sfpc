@@ -48,6 +48,9 @@ Random:
 - the book of shaders- https://thebookofshaders.com/
 - https://www.theverge.com/2017/10/9/16450346/zuckerberg-facebook-spaces-puerto-rico-virtual-reality-hurricane
 - http://www.skawennati.com/
+- https://www.artnews.com/art-in-america/features/postcommodity-sound-millennium-tower-collapse-1202675398/
+- https://eatock.com/participate/no-smoking-sign-library/
+- https://www.poetryfoundation.org/poetrymagazine/browse?contentId=38643
 
 texts:
 - the age of surveillance capitalism by shoshana zuboff
@@ -56,6 +59,9 @@ texts:
   -   https://www.google.co.in/books/edition/Designs_for_the_Pluriverse/M0NRDwAAQBAJ?hl=en&gbpv=1&dq=ezio+manzini+%22so+today%22&pg=PT183&printsec=frontcover
 - https://core.ac.uk/download/pdf/55211446.pdf
 - https://en.wikipedia.org/wiki/Paul_Virilio - _how can we really live if there is no more here and if everything is now?_
+- https://www.bloomsbury.com/us/universal-sense-9781608198849
+- https://one.compost.digital/
+- 
 
 works:
 - [here to stay](https://www.chinatownartbrigade.org/#:~:text=Here%20to%20Stay%20(NYC),community%20resilience%20in%20NYC's%20Chinatown.)
